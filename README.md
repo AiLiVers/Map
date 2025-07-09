@@ -1,1 +1,3 @@
-# Map
+a = "hello world"
+
+print("a")
